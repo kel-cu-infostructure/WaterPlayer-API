@@ -1,0 +1,5 @@
+{
+    "VERIFY": true,
+    "PLAYLIST_URL": "http://localhost:4501/%s",
+    "SEARCH": true
+}
